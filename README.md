@@ -9,7 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Live link
 
-https://lurbdisk.web.app
+`https://lurbdisk.web.app`
 
 ## To run this locally
 
@@ -22,3 +22,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
